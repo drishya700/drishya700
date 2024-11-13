@@ -1,34 +1,61 @@
-Hi there, I'm Drishya Sood 👋
-Aspiring AI/ML Engineer | MERN Stack Developer | Python Enthusiast
-I’m a passionate Computer Science student with a focus on Artificial Intelligence and Machine Learning (AIML). With a solid foundation in Python, I have worked on various projects in both web development and AI domains. My core language is Python, but I also have extensive experience with the MERN stack (MongoDB, Express, React, Node.js) and a range of other programming languages and frameworks.
+<h1 align='center'>
+  Hi there 👋 I'm Drishya Sood💻
+</h1>
+
+<h4 align='center'>
+  Python Developer | Python | Artificial Intelligence | Machine Learning | Competitive Programmer
+</h4>
+
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/drishya-sood-402180292/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/RayPratiyush">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+  
+</p>
+<p align='center'>
+  I am <b>Drishya Sood</b>, a Python developer and passionate about designing and deploying web application. Worked on various Python and Web Development Projects. 
+</p>
 
 
-👨‍💻 Projects & Experience:
-MERN Stack Projects: Developed full-stack applications utilizing MongoDB, Express.js, React, and Node.js.
-AI/ML Projects: Currently working on building models and applications using Python-based libraries like TensorFlow, Keras, and Scikit-learn.
-Hackathons: Participated in hackathons like Code Slush, where I developed a Crypto Dashboard, showcasing my problem-solving skills and creativity in a time-sensitive environment.
 
 
-🛠 Skills:
-Core Language: Python
-Web Development: MERN Stack (MongoDB, Express.js, React, Node.js)
-Machine Learning: TensorFlow, Keras, Scikit-learn
-Other Languages: JavaScript, Java, HTML/CSS
-Database: MongoDB, SQL
-Tools & Platforms: Git, GitHub, Docker
+<b><h1>Skills🥇</h1></b>
+<p>
+<b>Languages</b><br>
+> Python, JavaScript, Shell Scripting<br>
+<b>OS</b><br>
+> Linux,Ubuntu,BackTrack, Windows.<br>
+<b>Networking</b><br>
+> TCP/IP Configuration,IP4/IPV6 Configuration,OSI Models,Network Architecture.<br>
+
+<b>Other</b><br>
+>Data structures and Algorithms,Firebase, OWASP 10, DVWA.<br></p>
+
+<b><h1>Currently Learning🎯</h1></b>
+<p>
+👉 Artificial Intelligence <br>
+
+👉 Machine Learning.<br>
+</p>
+
+<b><h1>⚡ Quote ⚡:</h1> </b><br>
+__*"Clarity simplifies implementation"*__ - Terry Pratchett  
 
 
-🌱 What I'm Learning:
-Advanced concepts in AI/ML, focusing on deep learning and NLP.
-Continually improving my knowledge in data structures and algorithms to solve complex challenges efficiently.
+<br>
+<br>
 
-
-🎯 Future Goals:
-Pursue a master's degree in AI abroad to deepen my expertise and contribute to innovative research in the field.
-Build intelligent, scalable applications using AI/ML technologies that solve real-world problems.
-
-
-📫 How to Reach Me:
-LinkedIn: (https://www.linkedin.com/in/drishya-sood-402180292/)
-Email: drishyasood7@gmail.com
-GitHub: github.com/drishya700
+<h4 align='center'>
+  📫 How to reach me: <a href='mailto:iamdrishyasood@gmail.com'>iamdrishyasood@gmail.com</a>
+</h4>
