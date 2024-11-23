@@ -46,7 +46,11 @@
 <p>
 👉 Artificial Intelligence <br>
 
-👉 Machine Learning.<br>
+👉 Machine Learning <br>
+
+👉 MERN Stack <br>
+
+👉 Python Libraries <br>
 </p>
 
 <b><h1>⚡ Quote ⚡:</h1> </b><br>
